@@ -42,5 +42,5 @@ I hope this year brings you everything you've been hoping for.`,
 
   /* one photo for the last page. Write its file name, for example "images/photo1.jpg".
      Leave it as "" to show a heart instead. */
-  photo: "rameenphoto"
+  photo: "rameenphoto.jpg"
 };
